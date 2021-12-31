@@ -15,7 +15,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "rar.start": "react-app-rewired start",
+    "rar.build": "react-app-rewired build",
+    "rar.test": "react-app-rewired test",
+    "rar.eject": "react-app-rewired eject"
   },
   "eslintConfig": {
     "extends": [
